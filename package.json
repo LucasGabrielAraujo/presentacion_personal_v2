@@ -1,0 +1,23 @@
+{
+  "name": "presentacion_personal_v2",
+  "version": "1.0.0",
+  "description": "![Yo](img/lucas_img.jpg)",
+  "main": "app.js",
+  "scripts": {
+    "start":"node ./src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucasGabrielAraujo/presentacion_personal_v2.git"
+  },
+  "author": "Lucas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LucasGabrielAraujo/presentacion_personal_v2/issues"
+  },
+  "homepage": "https://github.com/LucasGabrielAraujo/presentacion_personal_v2#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
